@@ -20,6 +20,15 @@ h1{
     display: flex;
     padding: 5%;
 }
+.flex-box-three{
+    display: flex;
+}
+
+.flex-box-three-padding-right{
+    background-color: deepskyblue;
+    padding-right: 50px;
+    margin-right: 200px;
+}
 .half-width{
     width: 50% ;
 }
@@ -30,6 +39,10 @@ h1{
 .second-img{
     height: 50%;
     width: 50%;
+}
+.section3-img{
+    height:100%;
+    width: 60%;
 }
 .link-button{
     font-weight: 700;
