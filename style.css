@@ -25,18 +25,22 @@ h2{
     margin-bottom: 100px;
 }
 .flex-box-three{
+    background-size: 15%;
+    background-image: url(shape-1.png);
+    background-repeat:no-repeat;
+    background-position: left;
     display: flex;
     padding: 5%;
     margin-bottom: 200px;
 }
 .flex-box-four{
+    padding-left: 5%;
     display: flex;
     margin-bottom: 200px;
 }
 
 .flex-box-three-padding-right{
-    padding-left: 10px;
-    padding-right: 50px;
+    padding-right: 10px;
     margin-right: 200px;
 }
 .half-width{
@@ -59,9 +63,6 @@ h2{
     height: 80%;
     width:50%;
     padding-right: 350px;
-}
-.sectioin4{
-    padding-left: 250px;
 }
 .link-button{
     font-weight: 700;
@@ -89,4 +90,7 @@ h2{
 }
 .footer-dsign{
     text-align: center;
+}
+.back-gound-img{
+
 }
