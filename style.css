@@ -1,6 +1,9 @@
 h1{
     font-size: 60px;
 }
+h2{
+    font-size: 40px;
+}
 .head-line-style {
     border-left: 5px solid ;
     border-image: linear-gradient(red,orange);
@@ -14,18 +17,25 @@ h1{
 }
 .flex-box {
     display: flex;
-    padding: 2%;
+    padding: 5%;
 }
 .flex-box-two{
     display: flex;
     padding: 5%;
+    margin-bottom: 100px;
 }
 .flex-box-three{
     display: flex;
+    padding: 5%;
+    margin-bottom: 200px;
+}
+.flex-box-four{
+    display: flex;
+    margin-bottom: 200px;
 }
 
 .flex-box-three-padding-right{
-    background-color: deepskyblue;
+    padding-left: 10px;
     padding-right: 50px;
     margin-right: 200px;
 }
@@ -33,6 +43,7 @@ h1{
     width: 50% ;
 }
 .first-img{
+    padding-right:200px;
     height: 100%;
     width: 100%;
 }
@@ -43,6 +54,14 @@ h1{
 .section3-img{
     height:100%;
     width: 60%;
+}
+.sectioin4-img{
+    height: 80%;
+    width:50%;
+    padding-right: 350px;
+}
+.sectioin4{
+    padding-left: 250px;
 }
 .link-button{
     font-weight: 700;
@@ -67,4 +86,7 @@ h1{
 .second-secton-background3{
     background-color: rgb(240, 138, 226);
     border-radius: 10px;
+}
+.footer-dsign{
+    text-align: center;
 }
