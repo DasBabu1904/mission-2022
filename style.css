@@ -15,7 +15,11 @@ h1{
 .flex-box {
     display: flex;
     padding: 2%;
-  }
+}
+.flex-box-two{
+    display: flex;
+    padding: 5%;
+}
 .half-width{
     width: 50% ;
 }
@@ -23,10 +27,31 @@ h1{
     height: 100%;
     width: 100%;
 }
+.second-img{
+    height: 50%;
+    width: 50%;
+}
 .link-button{
     font-weight: 700;
     text-decoration: none;
     background-image: linear-gradient(rgb(235, 75, 54), orange, rgb(255, 115, 0));
     padding: 10px 40px;
+    border-radius: 10px;
+}
+.second-secton-area{
+    width: 30%;
+    margin: 5px;
+    padding: 10px;
+}
+.second-secton-background1{
+    background-color: rgb(145, 143, 248);
+    border-radius: 10px;
+}
+.second-secton-background2{
+    background-color: rgb(182, 243, 164);
+    border-radius: 10px;
+}
+.second-secton-background3{
+    background-color: rgb(240, 138, 226);
     border-radius: 10px;
 }
