@@ -15,6 +15,9 @@ h2{
 #second-head-font_color{
     color: red;
 }
+.footer-font-color{
+    color: red;
+}
 .flex-box {
     display: flex;
     padding: 5%;
@@ -90,7 +93,4 @@ h2{
 }
 .footer-dsign{
     text-align: center;
-}
-.back-gound-img{
-
 }
